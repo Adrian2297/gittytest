@@ -95,6 +95,7 @@ public class gittytest extends javax.swing.JFrame {
                 System.out.print(j+i);
             }
             System.out.println();
+            System.out.println(10%3);
         }
     }//GEN-LAST:event_jButton1ActionPerformed
 
